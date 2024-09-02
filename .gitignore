@@ -1,0 +1,5 @@
+# Ignore all .env files
+my-env
+
+# Ignore folder 
+kafka_to_postgres-data
